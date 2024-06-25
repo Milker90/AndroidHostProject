@@ -13,7 +13,7 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import com.example.androidhostproject.databinding.ActivityMainBinding;
-import com.library.rrreactnative.RRTestNativeActivity;
+import com.library.modulern.RRTestNativeActivity;
 
 import android.view.Menu;
 import android.view.MenuItem;
